@@ -9,8 +9,9 @@ The main goal of this exercise is to understand your software development proces
 **We also hope you have fun.**
 
 ## The Challenge
-As a data-driven startup, having a robust understanding of our primary data source is critical. Serving medium and large companies, we can expect this source to be their accounting data. As such, we often need to create our own data structures representing the financial activity of a customer in question. 
-Two of the most basic accounting structures of a company are: its general ledger and its chart of accounts. In simple terms, we can think of the chart of accounts as an initial categorization and consolidation of a company’s transactions, used later for the structuring of specific reports. Likewise, the general ledger can be understood as a long record of all transactions in a given financial period, having at least two columns: the account number and the financial value of the transaction.* In short, the general ledger is the source of the data being organized in the chart of accounts.* 
+As a data-driven startup, having a robust understanding of our primary data source is critical. Serving medium and large companies, we can expect this source to be their accounting data. As such, we often need to create our own data structures representing the financial activity of a customer in question.
+
+Two of the most basic accounting structures of a company are: its [general ledger](https://www.investopedia.com/terms/g/generalledger.asp) and its [chart of accounts](https://www.investopedia.com/terms/c/chart-accounts.asp). In simple terms, we can think of the chart of accounts as an initial categorization and consolidation of a company’s transactions, used later for the structuring of specific reports. Likewise, the general ledger can be understood as a long record of all transactions in a given financial period, having at least two columns: the account number and the financial value of the transaction.* In short, the general ledger is the source of the data being organized in the chart of accounts.* 
 
 **Let's take a look at an example!**
 
