@@ -1,4 +1,4 @@
-# DeepESG Data Processing Technical Challenge
+# DEEP ESG Data Processing Technical Challenge
 
 ## Introduction
 
