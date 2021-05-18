@@ -170,13 +170,11 @@ Consolidate the “leave” account’s in the rest of the tree:
 
 ### Criteria 
 Some important points to be considered are: 
-* Architecture. 
-* Clean code. 
-* Documentation and comments. 
-* Tests. 
-* Error handling. 
-* Other points. 
-* Bonus. 
+* **Architecture**. We know that the challenge resolution do not demand rocket science, but can you organize it well an show us your software design approach?
+* **Clean code**. Same as above. 
+* **Documentation and comments**. 
+* **Tests**. 
+* **Error handling**.  
 
 ### Submission 
 
