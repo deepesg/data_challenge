@@ -144,7 +144,7 @@ Populate all chart of account with the sum of the respective account number:
 ```
 
 #### Final step
-Consolidate the “leave” account’s in the rest of the tree:
+Consolidate the leaves account’s in the rest of the tree:
 
 ```bash
 1 = 2 + 57 + 62 = 121
@@ -178,6 +178,6 @@ Some important points to be considered are:
 
 ### Submission 
 
-Please, create a repository with your solution and send the link to marinot@deepesg.com , pedro@deepesg.com and maria@deepesg.com . Your README.md should explain your decisions (or rationale) to solve the challenge as well as all the instructions required to run your solution and tests in a Linux environment. 
+Please, create a repository with your solution and send the link to vitor@deepesg.com . Your README.md should explain your decisions (or rationale) to solve the challenge as well as all the instructions required to run your solution and tests in a Linux environment. 
 
 **Good luck!**
