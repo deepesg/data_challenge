@@ -178,6 +178,6 @@ Some important points to be considered are:
 
 ### Submission 
 
-Please, create a repository with your solution and send the link to vitor@deepesg.com . Your README.md should explain your decisions (or rationale) to solve the challenge as well as all the instructions required to run your solution and tests in a Linux environment. 
+Please, create a repository with your solution and send the link to pessoas@deepesg.com and pedro@deepesg.com. Your README.md should explain your decisions (or rationale) to solve the challenge as well as all the instructions required to run your solution and tests in a Linux environment. 
 
 **Good luck!**
